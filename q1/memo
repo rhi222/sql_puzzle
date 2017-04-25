@@ -1,0 +1,7 @@
+# 日付・時刻関数
+EXTRACT, intervalなど
+https://www.postgresql.jp/document/9.6/html/functions-datetime.html
+
+# 制約
+constraintsやcheckなど
+https://www.postgresql.jp/document/9.6/html/ddl-constraints.html
